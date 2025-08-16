@@ -1,4 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h0neyp0t-466&label=Profile%20views&color=0e75b6&style=flat" alt="h0neyp0t-466" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=h0neyp0t-466&label=Profile%20views&color=0e75b6&style=flat" alt="h0neyp0t-466" /> 
+</p>
+
 # 💫 Hi 👋, I'm Muhammad Fezan
 **A passionate  MERN Stack Developer || DSA Enthusiast || Future ML Engineer from Pakistan**
 
