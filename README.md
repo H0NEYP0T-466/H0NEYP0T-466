@@ -12,14 +12,12 @@
 
 Email Me 👉 ✉️ **fezan1029@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me:
-🔭 I'm currently working on<br>Mastering AI/ML with Python 🤖 - Building intelligent applications using TensorFlow, PyTorch, and scikit-learn. Currently exploring deep learning, neural networks, and data science to create smart solutions that solve real-world problems.<br><br>👯 I'm looking to collaborate on<br>AI/ML projects, open-source web development projects using the MERN stack, and innovative tech solutions. I'm especially interested in building AI-powered tools, developer platforms, and educational tech.<br><br>🤝 I'm looking for help with<br>Advanced Machine Learning algorithms, MLOps practices, and scaling AI applications. Also seeking guidance on backend optimization and real-time systems.<br><br>🌱 I'm currently learning<br>Deep Learning with PyTorch & TensorFlow, Computer Vision, Natural Language Processing, and advanced data science techniques. Also diving deeper into AI model deployment and optimization.<br><br>💬 Ask me about<br>AI/ML, Python, React, C++, MERN Stack, Android Development with Kotlin, SQL, Git & GitHub workflows, or building intelligent applications with modern AI frameworks.<br><br>⚡ Fun fact<br>I once built a complete metro transportation system and a maze solver using C++ just to challenge myself. Now I'm applying the same problem-solving mindset to train AI models! Also, I consider debugging a core personality trait. 😄
+🔭 I'm currently working on<br>Mastering AI/ML with Python 🤖 - Building intelligent applications using TensorFlow, PyTorch, and scikit-learn. Currently exploring deep learning, neural networks, and data science to create smart solutions that solve real-world problems.<br><br>👯 I'm looking to collaborate on<br>AI/ML projects, open-source web development projects using the MERN stack, and innovative tech solutions. I'm especially interested in building AI-powered tools, developer platforms, and educational tech.<br><br>🤝 I'm looking for help with<br>Advanced Machine Learning algorithms, MLOps practices, and scaling AI applications. Also seeking guidance on backend optimization and real-time systems.<br><br>🌱 I'm currently learning<br>Deep Learning with PyTorch & TensorFlow, Computer Vision, Natural Language Processing, and advanced data science techniques. Also diving deeper into AI model deployment and optimization.<br><br>💬 Ask me about<br>AI/ML, Python, React, C++, MERN Stack, SQL, Git & GitHub workflows, or building intelligent applications with modern AI frameworks.<br><br>⚡ Fun fact<br>I once built a complete metro transportation system and a maze solver using C++ just to challenge myself. Now I'm applying the same problem-solving mindset to train AI models! Also, I consider debugging a core personality trait. 😄
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
