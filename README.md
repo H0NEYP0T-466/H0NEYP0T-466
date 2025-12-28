@@ -8,7 +8,6 @@
   </h1>
 </div>
 
-**A passionate MERN Stack Developer || AI/ML Engineer || DSA Enthusiast from Pakistan**
 
 Email Me 👉 ✉️ **fezan1029@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
