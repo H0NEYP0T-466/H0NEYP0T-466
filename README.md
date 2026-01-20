@@ -201,7 +201,7 @@ Email Me 👉 ✉️ **fezan1029@gmail.com** For Collaboration/Project or Anythi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=h0neyp0t-466&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H0NEYP0T-466&repo=matlab-workbench&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=h0neyp0t-466&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=H0NEYP0T-466&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=h0neyp0t-466&theme=react-dark)
