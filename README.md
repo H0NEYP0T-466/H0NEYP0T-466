@@ -42,20 +42,21 @@ class MuhammadFezan:
     @property
     def tech_stack(self):
         return {
-            "ai_ml":       ["Multi-Agent Systems", "RAG Pipelines", "LLM Fine-tuning (LoRA/QLoRA)",
-                            "Computer Vision", "Deep Learning", "FAISS", "Agentic Workflows"],
-            "llm_providers": ["OpenAI", "Anthropic", "Mistral", "Groq", "Cerebras", "Grok", "OpenRouter"],
-            "fullstack":   ["React", "Node.js", "FastAPI", "MongoDB", "PostgreSQL", "WebSockets"],
-            "devops":      ["Docker", "GitHub Actions", "AWS", "Vercel", "Railway", "Render"],
-            "languages":   ["Python", "JavaScript", "TypeScript", "C/C++"],
+            "ai_ml":         ["Multi-Agent Systems", "RAG Pipelines", "LLM Fine-tuning (LoRA/QLoRA)",
+                              "Computer Vision", "Deep Learning", "FAISS", "Agentic Workflows"],
+            "llm_providers": ["OpenAI", "Anthropic", "Mistral", "Groq", "Cerebras", "Grok",
+                              "OpenRouter", "NVIDIA NIM", "Longcat", "GLM/Zhipu"],
+            "fullstack":     ["React", "Node.js", "FastAPI", "MongoDB", "PostgreSQL", "WebSockets"],
+            "devops":        ["Docker", "GitHub Actions", "AWS", "Vercel", "Railway", "Render"],
+            "languages":     ["Python", "JavaScript", "TypeScript", "C/C++"],
         }
 
     def flagship_projects(self):
         return {
-            "BTSC-UNet-ViT":"Brain tumor classification + segmentation — hybrid ViT + U-Net on 90k+ images",
-            "Dr.Document":  "16-agent GitHub documentation generator — React + FastAPI + WebSocket streaming",
-            "DataForge":    "LLM fine-tuning dataset platform — FAISS deduplication + multi-model routing",
-            "LinkedIn-Agent":"Autonomous LinkedIn presence manager — GitHub → LLM → Telegram → Selenium",
+            "BTSC-UNet-ViT":  "Brain tumor classification + segmentation — hybrid ViT + U-Net on 90k+ images",
+            "Dr.Document":    "16-agent GitHub documentation generator — React + FastAPI + WebSocket streaming",
+            "DataForge":      "LLM fine-tuning dataset platform — FAISS deduplication + multi-model routing",
+            "LinkedIn-Agent": "Autonomous LinkedIn presence manager — GitHub → LLM → Telegram → Selenium",
         }
 
     def current_mission(self):
@@ -65,8 +66,6 @@ class MuhammadFezan:
             "📦 Building LLM fine-tuning infrastructure at scale",
             "🌐 Shipping full-stack AI-powered developer tools",
         ]
-
-
 ```
 
 <div align="center">
@@ -264,13 +263,14 @@ agent_loop = {
 </picture>
 </div>
 
-
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fezan-161ba9353/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31218556)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fezan1029@gmail.com)
 
 
@@ -282,7 +282,7 @@ agent_loop = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-
+---
 
 <div align="center">
 
@@ -294,11 +294,7 @@ agent_loop = {
 ---
 
 <div align="center">
-
-<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 </div>
 
 ---
@@ -306,8 +302,6 @@ agent_loop = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,11,2&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
-
-
 
 [![Made with 🤍](https://img.shields.io/badge/Made%20with-%F0%9F%A4%8D-blueviolet?style=for-the-badge)](https://github.com/H0NEYP0T-466)
 
