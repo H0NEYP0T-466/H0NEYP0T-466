@@ -195,7 +195,7 @@ pipeline = {
 
 **LLM Fine-tuning Dataset Platform**
 
-**Tech:** Python · FAISS · Multi-Model Routing · LoRA/QLoRA
+**Tech:** Python · FAISS · Multi-Model Routing · LLMs
 
 ```python
 platform = {
@@ -211,16 +211,16 @@ platform = {
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20"/> LinkedIn Automation Agent
 
-**Autonomous LinkedIn Presence Manager**
+**AI-Powered LinkedIn Post Draft Assistant**
 
-**Tech:** Selenium · Playwright · Telegram · LLMs
+**Tech:** Terminal-Style · Python · Telegram · LLMs
 
 ```python
 agent_loop = {
     "source":    "GitHub activity feed",
     "generate":  "LLM-powered post drafts",
-    "approve":   "Telegram bot routing",
-    "publish":   "Browser automation"
+    "deliver":   "Telegram approval bot",
+    "control":   "You decide what gets posted"
 }
 ```
 
@@ -272,7 +272,7 @@ agent_loop = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fezan-161ba9353/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31218556)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fezan1029@gmail.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/H0NEYP0T-466)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
