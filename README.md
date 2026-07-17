@@ -43,9 +43,10 @@ class MuhammadFezan:
     def tech_stack(self):
         return {
             "ai_ml":         ["Multi-Agent Systems", "RAG Pipelines", "LLM Fine-tuning (LoRA/QLoRA)",
-                              "Computer Vision", "Deep Learning", "FAISS", "Agentic Workflows"],
-            "llm_providers": ["OpenAI", "Anthropic", "Mistral", "Groq", "Cerebras", "Grok",
-                              "OpenRouter", "NVIDIA NIM", "Longcat", "GLM/Zhipu"],
+                              "Computer Vision", "Deep Learning", "Self-Supervised Learning (DINOv2)",
+                              "Medical Segmentation (U-Net, SAM-2)", "FAISS", "Agentic Workflows"],
+            "llm_providers": ["OpenAI", "Anthropic", "Mistral", "Groq", "OpenRouter",
+                              "NVIDIA NIM", "Longcat", "Nara", "GLM/Zhipu"],
             "fullstack":     ["React", "Node.js", "FastAPI", "MongoDB", "PostgreSQL", "WebSockets"],
             "devops":        ["Docker", "GitHub Actions", "AWS", "Vercel", "Railway", "Render"],
             "languages":     ["Python", "JavaScript", "TypeScript", "C/C++"],
@@ -54,17 +55,17 @@ class MuhammadFezan:
     def flagship_projects(self):
         return {
             "BTSC-UNet-ViT":  "Brain tumor classification + segmentation — hybrid ViT + U-Net on 90k+ images",
-            "Dr.Document":    "16-agent GitHub documentation generator — React + FastAPI + WebSocket streaming",
-            "DataForge":      "LLM fine-tuning dataset platform — FAISS deduplication + multi-model routing",
-            "LinkedIn-Agent": "Autonomous LinkedIn presence manager — GitHub → LLM → Telegram → Selenium",
+            "DINOv2-ISIC":    "Skin lesion classification — DINOv2 fine-tuned on ISIC 2019, achieved SOTA F1 Macro 0.7139",
+            "GPT-1":          "GPT from scratch — nanoGPT trained on 35K WhatsApp messages, 523-token custom vocabulary",
+            "FinetuneLLM":    "LLM fine-tuning pipeline — LoRA/QLoRA on custom datasets with FAISS-powered curation",
         }
 
     def current_mission(self):
         return [
-            "🤖 Architecting production-grade multi-agent AI pipelines",
-            "🧬 Researching transformer-based medical image segmentation",
-            "📦 Building LLM fine-tuning infrastructure at scale",
-            "🌐 Shipping full-stack AI-powered developer tools",
+            "🧬 Achieved SOTA in medical imaging — DINOv2-ISIC (F1 0.7139, beat ISIC 2019 leaderboard)",
+            "🧠 Trained GPT from scratch on custom WhatsApp dataset — nanoGPT, 523-token vocab",
+            "📦 Building LLM fine-tuning pipeline — LoRA/QLoRA with FAISS-powered data curation",
+            "🤖 Architecting multi-agent systems & full-stack AI developer tools",
         ]
 ```
 
@@ -83,23 +84,25 @@ class MuhammadFezan:
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0052CC?style=for-the-badge&logo=elastic&logoColor=white)
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning_LLMs-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white)
-![PEFT](https://img.shields.io/badge/PEFT-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)
+![DINOv2](https://img.shields.io/badge/DINOv2-Self--Supervised_Vision-000000?style=for-the-badge&logo=meta&logoColor=white)
+![U-Net](https://img.shields.io/badge/U--Net-Segmentation-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
+![SAM-2](https://img.shields.io/badge/SAM--2-Segment_Anything-0052CC?style=for-the-badge&logo=meta&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
-![Letta/MemGPT](https://img.shields.io/badge/Letta%2FMemGPT-1A1A2E?style=for-the-badge&logo=ghost&logoColor=white)
 
 ### 🔮 LLM Providers
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-FF6B35?style=for-the-badge&logo=mistral&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Cerebras](https://img.shields.io/badge/Cerebras-0057FF?style=for-the-badge&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6B21A8?style=for-the-badge&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Longcat](https://img.shields.io/badge/Longcat-FF6E6E?style=for-the-badge&logoColor=white)
+![Nara](https://img.shields.io/badge/Nara_AI-00C853?style=for-the-badge&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM%2FZhipu-1A6DFF?style=for-the-badge&logoColor=white)
 
 ### 🌐 Full-Stack (MERN + FastAPI)
@@ -169,19 +172,18 @@ research = {
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="20"/> Dr.Document
+### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="20"/> DINOv2-ISIC
 
-**16-Agent GitHub Documentation Generator**
+**Skin Lesion Classification — SOTA**
 
-**Tech:** FastAPI · React · WebSockets · Multi-Agent · LLMs
+**Tech:** PyTorch · DINOv2 · ISIC 2019 · Computer Vision
 
 ```python
-pipeline = {
-    "agents":    16,
-    "input":     "GitHub Repository URL",
-    "output":    "Full Documentation Suite",
-    "streaming": "Real-time via WebSockets",
-    "highlight": "Generated its own README 🤯"
+result = {
+    "model":    "DINOv2-B fine-tuned",
+    "dataset":  "ISIC 2019 — 25k images, 8 classes",
+    "score":    "F1 Macro 0.7139 — beat official leaderboard",
+    "status":   "Published SOTA (July 2026)"
 }
 ```
 
@@ -191,36 +193,36 @@ pipeline = {
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"/> DataForge
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"/> GPT-1
 
-**LLM Fine-tuning Dataset Platform**
+**GPT From Scratch on Custom Data**
 
-**Tech:** Python · FAISS · Multi-Model Routing · LLMs
+**Tech:** PyTorch · nanoGPT · NLP · Character-Level Tokenizer
 
 ```python
-platform = {
-    "deduplication": "FAISS vector similarity",
-    "routing":       "Multi-model LLM ensemble",
-    "output":        "Large-scale QA pair datasets",
-    "use_case":      "Production LLM fine-tuning"
+training = {
+    "base":    "Karpathy nanoGPT — 6 layers, 4 heads",
+    "data":    "35,213 WhatsApp messages",
+    "vocab":   "523 tokens (8× Shakespeare's 65)",
+    "context": "256 tokens, character-level"
 }
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20"/> LinkedIn Automation Agent
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20"/> FinetuneLLM
 
-**AI-Powered LinkedIn Post Draft Assistant**
+**LLM Fine-Tuning Pipeline**
 
-**Tech:** Terminal-Style · Python · Telegram · LLMs
+**Tech:** Python · LoRA · QLoRA · HuggingFace · FAISS
 
 ```python
-agent_loop = {
-    "source":    "GitHub activity feed",
-    "generate":  "LLM-powered post drafts",
-    "deliver":   "Telegram approval bot",
-    "control":   "You decide what gets posted"
+pipeline = {
+    "method":    "LoRA/QLoRA parameter-efficient tuning",
+    "data_prep": "FAISS vector deduplication",
+    "routing":   "Multi-model LLM ensemble",
+    "output":    "Domain-adapted instruction models"
 }
 ```
 
