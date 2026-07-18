@@ -183,7 +183,7 @@ result = {
     "model":    "DINOv2-B fine-tuned",
     "dataset":  "ISIC 2019 — 25k images, 8 classes",
     "score":    "F1 Macro 0.7139 — beat official leaderboard",
-    "status":   "Shipped..."
+    "status":   "Shipped.."
 }
 ```
 
