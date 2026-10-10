@@ -24,7 +24,7 @@
 
 ## 📌 ABOUT ME
 
-> **AI Systems Engineer & Full-Stack Developer** building medical vision systems, transformer architectures, and autonomous agent pipelines.
+> Hey, hope you're doing well! I'm Fezan, an AI engineer whose primary hobby is building things and  token eating (once burned 312M+ tokens in a single 4-hour sprint). Always open to collaborating on research papers, interesting projects, or wild ideas. Drop me an email or text anytime.
 
 - 🎓 **Education**: Bachelor of Computer Science @ [Lahore Garrison University](https://lgu.edu.pk/)
 - 🔬 **Core Research**: Medical imaging pipelines (classification, segmentation, foundation models) and agentic workflows.
@@ -39,6 +39,7 @@
 ### 🤖 Machine Learning & Deep Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ML/DL](https://img.shields.io/badge/ML%20%2F%20Deep%20Learning-111827?style=for-the-badge)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-0052CC?style=for-the-badge&logo=elastic&logoColor=white)
 ![LoRA / QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Local LLMs](https://img.shields.io/badge/Local_LLMs-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
@@ -67,7 +68,7 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -75,35 +76,20 @@
 
 **Multi-Organ Disease Classification & Segmentation**
 
-**Tech:** PyTorch · FastAPI · React · TypeScript · Three.js
-
-```python
-system = {
-    "core":        "10+ organ systems for classification + segmentation",
-    "assistive":   ["Prompt-based interactive segmentation",
-                    "Automated clinical report generation",
-                    "Conversational AI diagnostic assistant",
-                    "3D anatomical organ visualization"]
-}
-```
+Full-stack clinical diagnostic system supporting 10+ organ systems for classification and segmentation.
+- **Tech:** PyTorch, FastAPI, React, TypeScript, Three.js
+- **Assistive:** Prompt-based interactive segmentation, automated report generation, AI diagnostic assistant, 3D anatomical organ models
 
 </td>
 <td width="50%" valign="top">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"/> GPT-2
 
-**From-Scratch Transformer Architecture & Interactive Engine**
+**From-Scratch Transformer Architecture & Engine**
 
-**Tech:** PyTorch · FastAPI · React · TypeScript · Transformers
-
-```python
-engine = {
-    "architecture": "GPT-2 (124M parameters) implemented from scratch",
-    "training":     "Causal self-attention, BPE tokenization, custom data",
-    "backend":      "FastAPI streaming text generation & model telemetry",
-    "frontend":     "Interactive React UI for real-time inference"
-}
-```
+Lightweight from-scratch reimplementation of OpenAI's GPT-2 (124M) with real-time text streaming.
+- **Tech:** PyTorch, FastAPI, React, TypeScript, Transformers
+- **Features:** Causal self-attention, BPE tokenization, FastAPI streaming backend, interactive React inference UI
 
 </td>
 </tr>
@@ -115,34 +101,20 @@ engine = {
 
 **Brain Tumor Classification & Segmentation**
 
-**Tech:** Deep Learning · Computer Vision · Medical Imaging
-
-```python
-research = {
-    "architecture": "Hybrid transformer & convolutional network",
-    "dataset":      "90,000+ medical images",
-    "benchmark":    "99.26% test accuracy in validation",
-    "status":       "Shipped (May 2026)"
-}
-```
+Hybrid vision transformer and convolutional network for joint multi-class diagnosis and lesion segmentation.
+- **Tech:** PyTorch, ViT, U-Net, Medical Imaging
+- **Benchmark:** 99.26% test accuracy across 90,000+ medical images (Shipped)
 
 </td>
 <td width="50%" valign="top">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="20"/> DINOv2-ISIC
 
-**Dermoscopic Lesion Classification**
+**Dermoscopic Skin Lesion Benchmark**
 
-**Tech:** Foundation Models · Self-Supervised Learning · Computer Vision
-
-```python
-benchmark = {
-    "approach":     "Foundation vision model fine-tuning",
-    "dataset":      "ISIC 2019 — 25,000 dermoscopy images",
-    "result":       "SOTA F1 Macro (outperformed official benchmark)",
-    "status":       "Shipped SOTA (July 2026)"
-}
-```
+Self-supervised vision foundation model fine-tuned on dermatoscopic image benchmarks.
+- **Tech:** PyTorch, DINOv2, Computer Vision
+- **Benchmark:** SOTA F1 Macro 0.7139 on ISIC 2019 (Beat official leaderboard)
 
 </td>
 </tr>
